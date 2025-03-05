@@ -55,6 +55,10 @@ Option #2 (developer install):
 
 .. inclusion-acknowledgements
 
+
+[Article From Science Direct](https://www.sciencedirect.com/science/article/pii/S2666546824000971?via%3Dihub)
+
+
 Acknowledgments
 ===============
 
